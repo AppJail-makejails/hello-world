@@ -1,0 +1,3 @@
+INCLUDE options/options.makejail
+
+CMD echo "Hello, world!"
