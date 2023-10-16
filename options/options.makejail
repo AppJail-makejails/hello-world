@@ -1,2 +1,2 @@
-OPTION overwrite
+OPTION overwrite=force
 OPTION start
